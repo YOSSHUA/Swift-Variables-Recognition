@@ -1,0 +1,13 @@
+var varA = 42
+let constant = 100
+var varB:Float
+varB = 3.14159
+var vargain = "Hello, Swift 4!"
+var varrrA = "Godzilla"
+var varnB = 1000.00
+let jimbo = 0
+let aya:[Int]=[] 
+let arnoult:[Float ], blout:Array<Float>  
+let anoil:[Character ] =[],z=[Character]() 
+let hugo =[5.6], colon:[Double]
+let streets = ["Albemarle", "Brandywine", "Chesapeake"]
